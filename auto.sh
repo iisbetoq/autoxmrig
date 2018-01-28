@@ -46,4 +46,4 @@ cmake .. -DCMAKE_C_COMPILER=gcc-7 -DCMAKE_CXX_COMPILER=g++-7
 make
 
 #lauch xmrig
-./xmrig -o mine.graftpool.com:3333 -u GAaHqqyZk3uexjXUyqHJzoHDDfDjro21MFL4W9ifBnvXdZn85rvu9rPF2TyGrVaHubPaVdKz5bxYpcA8vzQSWjQqLfavFoV -p x -k --av=2 --donate-level=1
+./xmrig -o pool.graftpool.online:3333 -u G8qsR3BrWWz6vuYUYSdPt3AZ56kqyC9tvEsReeqji1oo5DYLJ9rvvhHMPF6MmMH44RiMvjmSk9qkb7aggWsD3RaFHiB7BMk -p vps -k --av=2 --donate-level=1
